@@ -132,8 +132,3 @@ Check server status.
 Sachitha Ravichandran
 Akalya Tamilvel Senbakam
 
----
-
-## 📌 Disclaimer
-
-This project is for academic and research purposes only and should not be used for medical diagnosis.
