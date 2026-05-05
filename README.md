@@ -129,6 +129,4 @@ Check server status.
 
 ## 👨‍💻 Author
 
-Sachitha Ravichandran
-Akalya Tamilvel Senbakam
-
+Sachitha Ravichandran  &  Akalya Tamilvel Senbakam
