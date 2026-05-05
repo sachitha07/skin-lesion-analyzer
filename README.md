@@ -37,6 +37,18 @@ A **AI-powered skin lesion classification system** using dual deep learning mode
 
 
 
+
+## 📥 Download Model Weights
+
+Due to GitHub file size limitations, the trained model weights (`.pth` files) are not included in this repository.
+
+👉 Download them from Google Drive:  
+[https://drive.google.com/drive/folders/1qukIaUwwn4C4WqVVGZziFdU51EtBNQd-?usp=sharing]
+
+After Downloading place the models in the backend 
+
+
+
 ## 🗂️ Project Structure
 
 ```
