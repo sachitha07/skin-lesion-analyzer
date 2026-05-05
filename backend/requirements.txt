@@ -1,0 +1,15 @@
+# ── Core framework ────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9          # required for UploadFile
+pydantic==2.7.1
+
+# ── Deep learning ─────────────────────────────────────────────────────────
+torch>=2.1.0
+torchvision>=0.16.0
+timm==0.9.16                     # ViT: vit_base_patch16_224
+
+# ── Image processing ──────────────────────────────────────────────────────
+Pillow>=10.0.0
+opencv-python-headless>=4.9.0    # Grad-CAM heatmap (headless = no GUI deps)
+numpy>=1.26.0
