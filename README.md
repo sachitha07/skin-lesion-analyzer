@@ -6,7 +6,6 @@ A **AI-powered skin lesion classification system** using dual deep learning mode
 * 🔴 Melanoma (Malignant)
 
 
-
 ## ✨ Features
 
 * 🤖 **Dual-model inference** - ViT and ResNet50 run in parallel
